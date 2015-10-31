@@ -2,7 +2,7 @@
 
 [Source website][source]
 
-[![Screenshot](/images/tprog.img)][source]
+[![Screenshot](/images/tprog.png)][source]
 
 [source]: https://teespring.com/tprog
 
