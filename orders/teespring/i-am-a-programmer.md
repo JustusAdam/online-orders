@@ -6,6 +6,7 @@
 
 [source]: https://teespring.com/tprog
 
-| Who |  What | Size | Quantity |
-|-----|-------|------|----------|
-| Justus | T-shirt, grey | unisex small | 1 |
+|   Who   |     What      |     Size     | Qty |
+|---------|---------------|--------------|-----|
+| Justus  | T-shirt, grey | unisex small |  1  |
+| Dominik | T-shirt, red  | unisex small |  1  |
