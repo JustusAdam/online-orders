@@ -6,6 +6,6 @@
 
 [source]: https://teespring.com/tprog
 
-| Who |  What | Size |
-|-----|-------|-------|
-| Justus | T-shirt, grey | unisex small |
+| Who |  What | Size | Quantity |
+|-----|-------|------|----------|
+| Justus | T-shirt, grey | unisex small | 1 |
