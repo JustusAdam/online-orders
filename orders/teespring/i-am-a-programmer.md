@@ -6,6 +6,6 @@
 
 [source]: https://teespring.com/tprog
 
-| Who |  What | Price |
+| Who |  What | Size |
 |-----|-------|-------|
-| Justus | T-shirt, grey | 20.14 € |
+| Justus | T-shirt, grey | unisex small |
